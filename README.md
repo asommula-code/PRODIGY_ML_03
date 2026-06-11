@@ -1,6 +1,6 @@
 # PRODIGY_ML_03
 ## Task 3
-Implemente a Support Vector Machine (SVM) model to classify images as either cats or dogs.
+Implement a Support Vector Machine (SVM) model to classify images as either cats or dogs.
 
 ## Dataset
 - Source: Cat and Dog image dataset
